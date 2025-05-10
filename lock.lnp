@@ -1,0 +1,3 @@
+".\Objects\lock_s.obj" 
+TO ".\Objects\lock" 
+PRINT(".\Listings\lock.m51")
