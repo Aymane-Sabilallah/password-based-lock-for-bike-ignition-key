@@ -3,7 +3,7 @@
 
 This project is a simulated hardware security system for bike ignition using a password mechanism implemented via 8051 microcontroller, 4x3 keypad, LCD, and Proteus simulation.
 
-## 🚀 Features
+##  Features
 - Password-based authentication to **start the bike**
 - **Three incorrect password attempts trigger bike lock**
 - **Countdown warning** on LCD before locking
@@ -14,14 +14,14 @@ This project is a simulated hardware security system for bike ignition using a p
 - Prevents repeated ignition after startup
 
 ---
-## 🛠️ Project Components
+##  Project Components
 
-### 👨‍💻 Software:
+###  Software:
 - **Keil uVision** – for 8051 coding and HEX generation
 - **Proteus Design Suite** – for simulating microcontroller circuit
 
 
-## 🧩 Hardware Simulated
+##  Hardware Requirements
 - 80C51 Microcontroller  
 - Programming Cable  
 - 4x3 Matrix Keypad  
@@ -94,7 +94,7 @@ To view these PDFs directly on GitHub, click the filenames above.
 ---
 ## Screenshot
 
-- ![bike_ignition_circuit_diagram](bike_ignition.png)
+- ![bike_ignition_circuit_diagram](bike_ss.png)
   
 ---
 
