@@ -62,10 +62,10 @@ This project implements a secure ignition system for a bike using a password-bas
 
 ## 📝 Password Logic
 
-- Default password: `1234`
+- Default password: `54321`
 - If entered correctly:
   - Displays: `Bike On`, then `Enjoy The Ride`
-  - Returns to odometer screen
+  - Returns to speedometer and odometer screen
 - If entered incorrectly:
   - Displays remaining attempts (e.g., `2 attempts left`)
   - After 3 failed attempts:
@@ -77,13 +77,8 @@ This project implements a secure ignition system for a bike using a password-bas
 
 ## 📸 Screenshots
 
-*(Include if you want — like LCD output or Proteus simulation view)*
+Bike_ignition.PDF
 
----
-
-## 📜 License
-
-This project is for educational purposes. Feel free to modify and enhance it.
 
 ---
 
