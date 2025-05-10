@@ -87,7 +87,7 @@ This project is a simulated hardware security system for bike ignition using a p
 
 - [bike_ignition_code.pdf](bike_ignition_code.pdf)
 - [bike_ignition_diagram.pdf](bike_ignition_diagram.pdf)
-- [bike_ignition_circuit_diagram](bike_ignition.png)
+- ![bike_ignition_circuit_diagram](bike_ignition.png)
 
 To view these PDFs directly on GitHub, click the filenames above.
 
