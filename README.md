@@ -1,4 +1,4 @@
-# password-based lock for bike ignition key System using 8051 Microcontroller
+# Password-based Lock for Bike Ignition key System using 8051 Microcontroller
 
 
 This project is a simulated hardware security system for bike ignition using a password mechanism implemented via 8051 microcontroller, 4x3 keypad, LCD, and Proteus simulation.
@@ -87,6 +87,7 @@ This project is a simulated hardware security system for bike ignition using a p
 
 - [bike_ignition_code.pdf](bike_ignition_code.pdf)
 - [bike_ignition_diagram.pdf](bike_ignition_diagram.pdf)
+- [bike_ignition_circuit_diagram](bike_ignition.png)
 
 To view these PDFs directly on GitHub, click the filenames above.
 
@@ -100,10 +101,10 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 👤 Author
 
-Developed by: Tasnim Ul Islam
-Department : Bioinformatics Engineering,AET
-Institution: Bangladesh Agricultural University  
-Supervisor: [Your Supervisor, if applicable]
+-Developed by: Tasnim Ul Islam
+-Department : Bioinformatics Engineering,AET
+-Institution: Bangladesh Agricultural University  
+
 
 ---
 
