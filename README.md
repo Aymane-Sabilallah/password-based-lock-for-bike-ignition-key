@@ -25,27 +25,20 @@ This project implements a secure ignition system for a bike using a password-bas
 - **Proteus Design Suite** – for simulating microcontroller circuit
 
 ### 🧩 Hardware Simulated:
-  -80C51 Microcontroller
-  -Programming cable
-  -4 * 3 Matrix Keypad
-  -16 *2 LCD
-  -DC Motor
-  -Capacitor
-  -Crystal
-  -L293D-Push-Pull Four Chanel Driver with Diodes
-  -Buzzer
-  -Power
-  -Ground
 
----
+- 80C51 Microcontroller  
+- Programming Cable  
+- 4×3 Matrix Keypad  
+- 16×2 LCD Display  
+- DC Motor  
+- Capacitor  
+- Crystal Oscillator  
+- L293D Push-Pull Four Channel Driver with Diodes  
+- Buzzer  
+- Power Supply  
+- Ground  
 
-## 📁 File Structure
-  BikeSecuritySystem/
-  -├── main.c # Main program source code
-  -├── BikeLock.uvproj # Keil project file
-  -├── BikeLock.uvopt # Keil options file
-  -├── BikeLock.hex # Compiled hex file for Proteus
-  -├── README.md # Project description
+
 
   
 ---
@@ -77,7 +70,7 @@ This project implements a secure ignition system for a bike using a password-bas
 
 ## 📸 Screenshots
 
-Bike_ignition.PDF
+(Bike_ignition.PDF)
 
 
 ---
